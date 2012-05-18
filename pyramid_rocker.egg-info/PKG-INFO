@@ -1,7 +1,7 @@
 Metadata-Version: 1.0
 Name: pyramid-rocker
 Version: 0.1dev
-Summary: Allows Pyramid Resources to Be Updated from Chrome Webbrowser
+Summary: Allows Pyramid Resources to Be Updated from a Webbrowser
 Home-page: http://github.com/Electrosoup
 Author: Simon Oram
 Author-email: simon@electrosoup.co.uk

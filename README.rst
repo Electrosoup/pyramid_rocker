@@ -25,6 +25,7 @@ Install the Chrome Plugin folowing the Nikita's instructions, but there is no ne
 In the plugins settings select 'options' for the Dev Tools Extension and Add a Rule:
 
 Resource ``(leave this empty)``
+
 Post To  ``http://thepyramidapp:andport/__rocker_update``
 
 for example

@@ -7,7 +7,7 @@ Devtools to your text editor.
 Requirements
 ============
 
-Nikita Vasilyev Chrome Plugin 'Chrome Devtools Autosave <https://github.com/NV/chrome-devtools-autosave>'_
+Nikita Vasilyev's Chrome Plugin `Chrome Devtools Autosave <https://github.com/NV/chrome-devtools-autosave>`_
 
 Pyramid Rocker plugin for Pyramid
 

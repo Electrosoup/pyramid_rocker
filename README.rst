@@ -30,7 +30,7 @@ Post To  ``http://thepyramidapp:andport/__rocker_update``
 
 for example
 
-``http://127.0.0.1:6543:/__rocker_update``
+``http://127.0.0.1:6543/__rocker_update``
 
 
 In chrome devtools you can now edit your CSS and Javascript and click on the page for it to be saved into Pyramid.

@@ -17,7 +17,7 @@ Installation
 Install pyramid rocker (using Mr. Developer or whatever) and in your development.ini file
 add the following line
 
-pyramid.includes:
+pyramid.includes =
         pyramid_rocker
 
 
@@ -25,8 +25,8 @@ Install the Chrome Plugin folowing the Nikita's instructions, but there is no ne
 
 In the plugins settings select 'options' for the Dev Tools Extension and Add a Rule:
 
-Resource: **Empty**
-Post To: http://thepyramidapp:andport/__rocker_update
+Resource (leave this empty)
+Post To  http://thepyramidapp:andport/__rocker_update
 
 for example
 

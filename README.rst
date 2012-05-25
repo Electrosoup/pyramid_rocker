@@ -17,20 +17,19 @@ Installation
 Install pyramid rocker (using Mr. Developer or whatever) and in your development.ini file
 add the following line.
 
-pyramid.includes =
-        pyramid_rocker
+``pyramid.includes = pyramid_rocker``
 
 
 Install the Chrome Plugin folowing the Nikita's instructions, but there is no need to install the server that he has written, just the plugin, we will be using Pyramid directly.
 
 In the plugins settings select 'options' for the Dev Tools Extension and Add a Rule:
 
-Resource (leave this empty)
-Post To  http://thepyramidapp:andport/__rocker_update
+Resource ``(leave this empty)``
+Post To  ``http://thepyramidapp:andport/__rocker_update``
 
 for example
 
-http://127.0.0.1:6543:/__rocker_update
+``http://127.0.0.1:6543:/__rocker_update``
 
 
 In chrome devtools you can now edit your CSS and Javascript and click on the page for it to be saved into Pyramid.

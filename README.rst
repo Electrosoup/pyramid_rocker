@@ -15,13 +15,13 @@ Installation
 ============
 
 Install pyramid rocker (using Mr. Developer or whatever) and in your development.ini file
-add the following line
+add the following line.
 
 pyramid.includes =
         pyramid_rocker
 
 
-Install the Chrome Plugin folowing the Nikita's instructions, but there is no need to install the server that he has written, just the plugin, we will be using the server bundled with Pyramid, or whatever your flavour is.
+Install the Chrome Plugin folowing the Nikita's instructions, but there is no need to install the server that he has written, just the plugin, we will be using Pyramid directly.
 
 In the plugins settings select 'options' for the Dev Tools Extension and Add a Rule:
 
